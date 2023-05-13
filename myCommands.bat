@@ -1,10 +1,12 @@
 @echo off
-echo ! 
-echo close
+echo cpumanager 
 echo delete
-echo dice
+echo filemanager
 echo files
 echo largestfile
+echo mem
+echo network
 echo output
+echo process
 echo search
 echo startserver
