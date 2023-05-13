@@ -14,7 +14,7 @@ pip install subprocess.run
 ## Commands:
 Use the ```myCommands``` command to get the list of all the commands implemented by this repository.
 ### File Manager Sample Input Usage:  
-In the ```filemanager.bat`` call it using filemanager command in the terminal the sample inputs for all the options 1 through 6 are:  
+In the ```filemanager.bat``` call it using filemanager command in the terminal the sample inputs for all the options 1 through 6 are:  
 **Option 1: Create a new file**
 ```
 Enter the file name to create: mytextfile.txt
