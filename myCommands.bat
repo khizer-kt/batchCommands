@@ -1,0 +1,9 @@
+@echo off
+echo ! 
+echo delete
+echo dice
+echo files
+echo largestfile
+echo output
+echo search
+echo server
