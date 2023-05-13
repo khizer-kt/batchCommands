@@ -1,3 +1,3 @@
 import subprocess
 import os
-subprocess.Popen(["output.bat"])
+subprocess.Popen(["cpumanager2.bat"])
