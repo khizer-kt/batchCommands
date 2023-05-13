@@ -1,5 +1,6 @@
 @echo off
 echo ! 
+echo close
 echo delete
 echo dice
 echo files
