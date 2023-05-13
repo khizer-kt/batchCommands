@@ -7,6 +7,8 @@
 Following Python Libraries need to be installed for some of the commands:
 ```
 pip install os-sys
+```
+```
 pip install subprocess.run
 ```
 ## Commands:
