@@ -11,4 +11,3 @@ pip install subprocess.run
 ```
 ## Commands:
 Use the ```myCommands``` command to get the list of all the commands implemented by this repository.
- 
