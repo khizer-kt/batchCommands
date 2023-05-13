@@ -1,2 +1,2 @@
 @echo off
-php -S localhost:%1
+python server.py 

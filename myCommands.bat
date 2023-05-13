@@ -7,4 +7,4 @@ echo files
 echo largestfile
 echo output
 echo search
-echo server
+echo startserver
