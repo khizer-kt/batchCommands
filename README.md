@@ -1,4 +1,8 @@
 # Batch Scripts for Windows
+## Members: 
+- [Khizer Tariq](https://github.com/khizer-kt)
+- [Rameen Amir]()
+- [Azka Basit]()
 ## How to use:
 - Clone the repository
 - Add the path of the repository to your enviroment variables
