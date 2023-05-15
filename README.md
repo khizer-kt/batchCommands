@@ -6,7 +6,8 @@
 ## How to use:
 - Clone the repository
 - Add the path of the repository to your enviroment variables
-- Run a command via PowerShell or Windows Terminal
+- Run a command via PowerShell or Windows Terminal  
+The Repository currently contains 18 distinct Commands that are performing around 25 different tasks (some commands work as together like a file manager so one command is used to display menu options for multiple commands)
 ## Python Dependencies
 Following Python Libraries need to be installed for some of the commands:
 ```
@@ -76,6 +77,8 @@ Returns the Commands used in the current instance of the terminal
 Returns the file with the largest size in the current directory
 ### ```mem``` Command:
 Returns the total and available RAM memory
+### ```multipipe``` Command:
+Uses two pipes to perform a simple file type and sorting function
 ### ```network``` Command:
 Displays commands for data usage and packet loss of data by pinging a sample website (default site is google.com)
 ### ```process``` Command:
