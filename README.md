@@ -2,7 +2,7 @@
 ## Members: 
 - [Khizer Tariq](https://github.com/khizer-kt)
 - [Rameen Amir]()
-- [Azka Basit]()
+- [Azka Basit](https://github.com/AzkaBasit)
 ## How to use:
 - Clone the repository
 - Add the path of the repository to your enviroment variables
