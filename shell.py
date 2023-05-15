@@ -29,4 +29,4 @@ while True:
         file_or_function = commands[command]
         subprocess.call(file_or_function, shell=True)
     else:
-        print("Invalid command.")
+        print("Invalid command")
