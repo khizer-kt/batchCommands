@@ -1,7 +1,8 @@
 import os
 import subprocess
 from scripts.commandList import commands
-
+print("---MINISHELL---")
+print("===============")
 while True:
     command = input("Enter a command (or 'exit' to quit): ")
     if command == "exit" or command== "quit":
