@@ -91,4 +91,7 @@ Replicates the echo command
 ### ```startserver``` Command:
 Starts a Server at the user specified port of the localhost
 ### ```userAdmin``` Command:
-Includes two commands for adding and removing users to the Administration groups and hnadling them Admin privileges.
+Includes two commands for adding and removing users to the Administration groups and handling them Admin privileges.
+
+---
+![ScreenShot](/res/image.png)
