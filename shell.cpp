@@ -17,7 +17,7 @@ const std::vector<std::string> commands = {
     "largestfile.bat",
     "mem.bat",
     "multipipe.bat",
-    "myCommands",
+    "myCommands.bat",
     "network.bat",
     "process.bat",
     "search.bat",

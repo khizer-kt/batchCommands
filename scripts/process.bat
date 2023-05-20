@@ -22,5 +22,4 @@ if "%OPTION%"=="4" (
     echo "Exiting Process and Thread Manager..."
     exit
 )
-pause
 goto menu

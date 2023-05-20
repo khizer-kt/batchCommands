@@ -28,5 +28,4 @@ if "%choice%"=="3" (
 )
 
 echo Invalid choice. Press any key to continue...
-pause > nul
 goto menu

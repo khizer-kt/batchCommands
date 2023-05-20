@@ -50,5 +50,4 @@ if "%OPTION%"=="7" (
     echo "Exiting File System Manager..."
     exit
 )
-pause
 goto menu

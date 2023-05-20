@@ -4,5 +4,3 @@ echo Current process and thread:
 echo ==========================
 tasklist /FI "IMAGENAME eq cmd.exe"
 echo.
-pause
-
