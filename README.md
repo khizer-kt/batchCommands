@@ -22,6 +22,8 @@ pip install subprocess.run
 ```
 ## Batch Commands:
 Use the ```myCommands``` command to get the list of all the commands implemented by this repository.
+### ```cpumanager``` Command:
+Displays the current process and thread information
 ### ```defender``` Command:
 Used for checking status of Windows Defender
 ### ```delete``` Command:
