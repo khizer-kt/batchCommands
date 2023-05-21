@@ -4,6 +4,6 @@ set file=%1
 if exist "%file%" (
     del "%file%"
     echo File "%file%" deleted.
-) else (
+) else  (
     echo File "%file%" not found.
 )
