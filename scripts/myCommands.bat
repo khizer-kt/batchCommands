@@ -15,4 +15,5 @@ echo process
 echo search
 echo speak
 echo startserver
+echo touch
 echo userAdmin

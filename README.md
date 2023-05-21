@@ -93,6 +93,8 @@ Searches for a file in the current directory
 Replicates the echo command
 ### ```startserver``` Command:
 Starts a Server at the user specified port of the localhost
+### ```touch``` Command:
+Creates a new file 
 ### ```userAdmin``` Command:
 Includes two commands for adding and removing users to the Administration groups and handling them Admin privileges.  
 
