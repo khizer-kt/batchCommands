@@ -1,4 +1,4 @@
-# Batch Scripts for Windows
+# Batch and Bash Scripts For Windows and Linux
 ## Members: 
 - [Khizer Tariq](https://github.com/khizer-kt)
 - [Rameen Amir]()
