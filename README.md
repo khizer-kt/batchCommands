@@ -6,7 +6,7 @@
 ## How to use:
 - Clone the repository
 - Add the path of the repository to your enviroment variables
-- Run a command via PowerShell or Windows Terminal  
+- Run a command via PowerShell / Windows Terminal  
 - A python CLI MiniShell has been included run ```python shell.py``` or if it is added in the path just ```shell.py``` to access the minishell. 
 
 The Repository currently contains 18 distinct Commands that are performing around 25 different tasks (some commands work as together like a file manager so one command is used to display menu options for multiple commands)  
@@ -50,14 +50,17 @@ Contains 3 Commands for viewing running processes, killing running processes and
 Write to a file and if it does not exist create it
 ### ```search``` Command:
 Searches for a file in the current directory
-### ```speak``` Command:
-Replicates the echo command
 ### ```startserver``` Command:
 Starts a Server at the user specified port of the localhost
+### ```speak``` Command:
+Replicates the echo command
+
 ### ```touch``` Command:
+
 Creates a new file 
 ### ```userAdmin``` Command:
 Includes two commands for adding and removing users to the Administration groups and handling them Admin privileges.  
+
 
 ---
 ## Bash Commands:  
