@@ -13,8 +13,10 @@ commands = {
     "myCommands":"myCommands",
     "network": "network.bat",
     "process": "process.bat",
+    "scribble": "scribble.bat",
     "search": "search.bat",
     "speak": "speak.bat",
     "startserver": "startserver.bat",
+    "touch": "touch.bat",
     "userAdmin": "userAdmin.bat"
 }
