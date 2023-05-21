@@ -20,7 +20,7 @@ pip install os-sys
 ```
 pip install subprocess.run
 ```
-## Commands:
+## Batch Commands:
 Use the ```myCommands``` command to get the list of all the commands implemented by this repository.
 ### ```defender``` Command:
 Used for checking status of Windows Defender
@@ -94,7 +94,19 @@ Replicates the echo command
 ### ```startserver``` Command:
 Starts a Server at the user specified port of the localhost
 ### ```userAdmin``` Command:
-Includes two commands for adding and removing users to the Administration groups and handling them Admin privileges.
+Includes two commands for adding and removing users to the Administration groups and handling them Admin privileges.  
 
 ---
+## Bash Commands:  
+Save files with a ```.sh``` extension, 
+use ```chmod +x script.sh``` to add executeable permissions to the saved bash file.
+Run the file using ```./script.sh``` command.
+The ```./myCommands.sh``` will display all the available commands.
+
+---
+### Windows Commands:
+
 ![ScreenShot](/res/image.png)
+
+### Linux Commands:
+![ScreenShot](/res/image2.png)
