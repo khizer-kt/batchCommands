@@ -66,7 +66,7 @@ use ```chmod +x script.sh``` to add executeable permissions to the saved bash fi
 Run the file using ```./script.sh``` command.
 The ```./myCommands.sh``` will display all the available commands.
 
----
+----
 ### Windows Commands:
 
 ![ScreenShot](/res/image.png)
