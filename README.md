@@ -7,8 +7,11 @@
 - Clone the repository
 - Add the path of the repository to your enviroment variables
 - Run a command via PowerShell or Windows Terminal  
-- A python CLI MiniShell has been included run ```python shell.py``` or if it is added in the path just ```shell.py``` to access the minishell.  
-The Repository currently contains 18 distinct Commands that are performing around 25 different tasks (some commands work as together like a file manager so one command is used to display menu options for multiple commands)
+- A python CLI MiniShell has been included run ```python shell.py``` or if it is added in the path just ```shell.py``` to access the minishell. 
+
+The Repository currently contains 18 distinct Commands that are performing around 25 different tasks (some commands work as together like a file manager so one command is used to display menu options for multiple commands)  
+
+The Repository now contains Bash Shell Files that have commands for linux based systems as well (tested on Kali), the system services that were used in Batch files and are only Windows specific like windows defender have been excluded.
 ## Python Dependencies
 Following Python Libraries need to be installed for some of the commands:
 ```
