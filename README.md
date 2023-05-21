@@ -46,6 +46,8 @@ Uses two pipes to perform a simple file type and sorting function
 Displays commands for data usage and packet loss of data by pinging a sample website (default site is google.com)
 ### ```process``` Command:
 Contains 3 Commands for viewing running processes, killing running processes and starting a new process
+### ```scribble``` Command:
+Write to a file and if it does not exist create it
 ### ```search``` Command:
 Searches for a file in the current directory
 ### ```speak``` Command:
