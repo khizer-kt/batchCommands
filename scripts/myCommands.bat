@@ -12,6 +12,7 @@ echo mem
 echo multipipe
 echo network
 echo process
+echo scribble
 echo search
 echo speak
 echo startserver
